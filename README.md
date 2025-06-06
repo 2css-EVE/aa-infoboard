@@ -1,4 +1,12 @@
-# Example Plugin App for Alliance Auth (GitHub Version)<a name="example-plugin-app-for-alliance-auth-github-version"></a>
+# aa-infoboard
+### this plugin is not for public use (yet)
+
+the aim here is to get rid of the orignal Dashboard in AllianceAuth since it's useless and should be more "user profile type of page" not the central fallback page.
+
+2CSS currently uses evewiki to bypass the dashboard, but this is only semi-optimal as it is based off external php driven code, and very little logic to work.
+this plugin will (soon ish) adress this shortcommings.
+
+## This is our First plugin, so expect some Typo's bugs and ghost files from the [Original Alliance Auth Example](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin)
 
 This is an example plugin app for [Alliance Auth](https://gitlab.com/allianceauth/allianceauth)
 (AA) that can be used as a starting point to develop custom plugins.
