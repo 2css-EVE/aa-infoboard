@@ -1,12 +1,17 @@
 # aa-infoboard
-### this plugin is not for public use (yet)
+## this plugin is not for public use (yet)
 
-the aim here is to get rid of the orignal Dashboard in AllianceAuth since it's useless and should be more "user profile type of page" not the central fallback page.
+The aim here is to get rid of the orignal Dashboard in AllianceAuth since it's useless in a frontend type of sense, breaks the navigation chain on multiple occations.
+the original dashboars is more like a "user profile type of page" not really the central fallback page.
 
 2CSS currently uses evewiki to bypass the dashboard, but this is only semi-optimal as it is based off external php driven code, and very little logic to work.
 this plugin will (soon ish) adress this shortcommings.
 
-## This is our First plugin, so expect some Typo's bugs and ghost files from the [Original Alliance Auth Example](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin)
+### This is our First plugin, so expect some Typo's bugs and ghost files from the [Original Alliance Auth Example](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin)
+
+
+text below is the original readme, kept here so we can maintain a common format later (please ignore)
+______________________________________________________________________
 
 This is an example plugin app for [Alliance Auth](https://gitlab.com/allianceauth/allianceauth)
 (AA) that can be used as a starting point to develop custom plugins.
@@ -21,7 +26,6 @@ _(These badges are examples, you can and should replace them with your own)_
 For the GitLab version of this example app, please have a look over here, Erik
 Kalkoken was so friendly to provide it » [Alliance Auth Example App (GitLab Version)](https://gitlab.com/ErikKalkoken/allianceauth-example-plugin)
 
-______________________________________________________________________
 
 <!-- mdformat-toc start --slug=github --maxlevel=6 --minlevel=1 -->
 
